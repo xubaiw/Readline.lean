@@ -1,0 +1,5 @@
+{"version": 1,
+ "packages":
+ [{"url": "https://github.com/tydeu/lean4-alloy",
+   "rev": "e07d9cd971920b0116803411f22541ba0c6787e2",
+   "name": "alloy"}]}
